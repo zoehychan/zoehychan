@@ -6,13 +6,12 @@ I am a passionate Web Development student at North Metropilitan TAFE, Western Au
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Diploma's in Front-End Web Development at NM Tafe.
--  
-- 🌐 
-- ✍️ 
+- 🔭 I'm currently completing my Diploma's qualification in Front-End Web Development at NM Tafe, Perth WA.
+- 🎨 I have a strong interest in web design and enjoy exploring UI/UX trends.
+- 🌱 In my free time, you might find me reading, sketching, trying out new recipes, or taking care of my beloved plants. 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ps,react)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
