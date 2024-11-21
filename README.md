@@ -8,14 +8,15 @@ I am a passionate Web Development student at North Metropilitan TAFE, Western Au
 
 - 🔭 I'm currently completing my Diploma's qualification in Front-End Web Development at NM Tafe, Perth WA.
 - 🎨 I have a strong interest in web design and enjoy exploring UI/UX trends.
-- 🌱 In my free time, you might find me reading, sketching, trying out new recipes, or taking care of my beloved plants. 
+- 🌱 In my free time, you might find me reading, sketching, trying out new recipes, or taking care of my beloved plants.
+- 🐱 I love spending time with my pets
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ps,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,ps,bootstrap,react,nextjs)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Front-End Web Development
+- 🚀 Completing qualification of Diploma in Front-End Web Development (completion end of 2024)
 - 📝 In progress of completing UX certificate course made by Google
     
 
@@ -25,8 +26,7 @@ I am a passionate Web Development student at North Metropilitan TAFE, Western Au
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/zoe-chan-16a478171/)
-- 
+- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)Connect with me on [LinkedIn](https://www.linkedin.com/in/zoe-chan-16a478171/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
