@@ -12,7 +12,7 @@ I am a passionate Web Development student at North Metropilitan TAFE, Western Au
 - 🐱 I love spending time with my pets
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,ps,bootstrap,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,ps,bootstrap,react,nextjs,wordpress,vscode)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -26,7 +26,7 @@ I am a passionate Web Development student at North Metropilitan TAFE, Western Au
 
 ## 📬 Get in Touch
 
-- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)Connect with me on [LinkedIn](https://www.linkedin.com/in/zoe-chan-16a478171/)
+- [![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/zoehychan/)) Connect with me on [LinkedIn](https://www.linkedin.com/in/zoe-chan-16a478171/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
