@@ -1,12 +1,12 @@
 # Hi, I'm Zoe! 👋
 
-I am a passionate Web Development student at North Metropilitan TAFE, Western Australia, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate Web Development student at North Metropilitan TAFE, Western Australia, driven by a curiosity for technology and a love for writing. My journey involves reaching into the world of computer science, exploring new ideas and technology, and sharing my insights with the community.
 
 ![zoehychan's Stats](https://github-readme-stats.vercel.app/api?username=zoehychan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently completing my Diploma's qualification in Front-End Web Development at NM Tafe, Perth WA.
+- 🔭 Currently completing my Diploma's qualification in Front-End Web Development at NM Tafe, Perth WA.
 - 🎨 I have a strong interest in web design and enjoy exploring UI/UX trends.
 - 🌱 In my free time, you might find me reading, sketching, trying out new recipes, or taking care of my beloved plants.
 - 🐱 I love spending time with my pets
